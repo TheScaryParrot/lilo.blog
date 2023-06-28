@@ -1,10 +1,10 @@
 +++
-title="Imker im Wandel der Zeit: Herausforderungen und Leidenschaft"
-date="2023-06-16"
-draft=false
-pinned=false
-image =	"/img/lead.jpg"
-tags = [ "Deutsch", "Reportage", "Imker", "Klimawandel" ]
+title = "Imker im Wandel der Zeit: Herausforderungen und Leidenschaft"
+date = "2023-06-28"
+draft = false
+pinned = false
+tags = ["Deutsch", "Reportage", "Imker", "Klimawandel"]
+image = "/img/lead.jpg"
 footnotes = "[Jahresbericht Agroscope 2018](https://www.agroscope.admin.ch/agroscope/de/home/themen/nutztiere/bienen/bienenhaltung.html),Zugriff am 06.05.2023 <br>[HU BERLIN REPLACE REPLACE REPLACE](https://www.hu-berlin.de/de/pr/nachrichten/august-2021/nr-21824-1/),Zugriff am 06.05.2023 <br>[REPLACE REPLACE RELPACE](https://www.nearbees.de/blog/der-weg-der-varroamilbe-nach-europaint), Zugriff am 06.05.2023 <br>"
 +++
 
