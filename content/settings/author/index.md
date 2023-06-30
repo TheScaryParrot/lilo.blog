@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Fabio Stalder"
-image = ""
+image = "/media/generalkenobi.jpg"
 url = "/about/"
 +++
