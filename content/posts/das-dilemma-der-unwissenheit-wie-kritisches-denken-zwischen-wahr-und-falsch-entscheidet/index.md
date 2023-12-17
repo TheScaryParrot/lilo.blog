@@ -19,6 +19,8 @@ Es ist jedoch wichtig zu erkennen, dass Argumente nicht immer eindeutig sind und
 
 ![](flat-earth-light-experiment-behind-curve-netflix-documentary.jpg "Das Laser Experiment aus der Dokumentation 'Behind the Curve'")
 
+*Das Laser Experiment aus der Dokumentation 'Behind the Curve'*
+
 Was dabei aber nicht passieren darf ist, dass man Anstelle der Widerlegung der eigenen Überzeugung, auf die Unwahrheit einer vorausgesetzten Wahrheit schliesst. Als Beispiel dazu: ein Experiment eines Flatearthers. Dabei ging es darum, ein für alle Mal zu beweisen, dass die Erde flach ist. Wie zu erwarten, sprach das Resultat klar für eine gekrümmte Erdoberfläche. Doch anstatt das Resultat zu akzeptieren, wurde das Experiment von dem Flatearther selbst, als fehlerhaft bestimmt. Dies ist ein Paradebeispiel für die Gefahr von selektiver Wahrnehmung. Dieser Flatearther hat die Fähigkeit verloren, kritisch zu denken.
 
 Insgesamt zeigt sich, dass kritisches Denken nicht nur eine Fähigkeit ist, sondern eine Haltung gegenüber Wissen und Erkenntnis. Es erfordert die Bereitschaft, sich in komplexe Fragen zu vertiefen, die eigenen Überzeugungen zu hinterfragen und die Vielschichtigkeit von Argumenten zu erkennen. Der Weg des kritischen Denkens mag anspruchsvoll sein, aber er führt zu einer tieferen und nuancierteren Verständnisweise der Welt um uns herum.
