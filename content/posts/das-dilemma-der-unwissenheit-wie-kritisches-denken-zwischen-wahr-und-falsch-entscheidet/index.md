@@ -1,7 +1,7 @@
 +++
 title = "Das Dilemma der Unwissenheit - Wie Kritisches Denken zwischen Wahr und Falsch entscheidet"
 date = "2023-12-17"
-draft = true
+draft = false
 pinned = false
 image = "true-or-false-questions.jpg"
 +++
@@ -16,6 +16,8 @@ Es ist ziemlich offensichtlich, beide Auswege haben nicht viel mit kritischem De
 In der Konstruktion von kritischem Wissen spielt die Fähigkeit, überzeugende Argumente zu formulieren, eine zentrale Rolle. Es geht darum, eine Position nicht nur zu vertreten, sondern sie auch verständlich und überzeugend zu kommunizieren. Dies erfordert nicht nur logische Klarheit, sondern auch die Fähigkeit, komplexe Ideen in verständliche Begriffe zu übersetzen.
 
 Es ist jedoch wichtig zu erkennen, dass Argumente nicht immer eindeutig sind und kollidieren können. Dabei erscheinen beide Argumente in allen drei Aspekten – Prämisse, Verbindung und Konklusion – als richtig, schliessen sich gegenseitig aber aus. Der Dialog ermöglicht es, unterschiedliche Perspektiven zu verstehen, Schwächen in den Argumenten zu identifizieren und gegebenenfalls zu einer Synthese zu gelangen. Eine gute Strategie ist es ebenfalls, die Perspektive zu wechseln. Oder man geht einmal grundsätzlich davon aus, dass die andere Aussage richtig ist, und analysiert, was daraus folgt. Führt die Wahrheit der Aussage zu Probleme oder einer Kontradiktion? Oder macht es vielleicht doch Sinn, sie als wahr zu betrachten. Das gleiche kann natürlich auch auf die eigene Aussage angewandt werden.
+
+![](flat-earth-light-experiment-behind-curve-netflix-documentary.jpg "Das Laser Experiment aus der Dokumentation 'Behind the Curve'")
 
 Was dabei aber nicht passieren darf ist, dass man Anstelle der Widerlegung der eigenen Überzeugung, auf die Unwahrheit einer vorausgesetzten Wahrheit schliesst. Als Beispiel dazu: ein Experiment eines Flatearthers. Dabei ging es darum, ein für alle Mal zu beweisen, dass die Erde flach ist. Wie zu erwarten, sprach das Resultat klar für eine gekrümmte Erdoberfläche. Doch anstatt das Resultat zu akzeptieren, wurde das Experiment von dem Flatearther selbst, als fehlerhaft bestimmt. Dies ist ein Paradebeispiel für die Gefahr von selektiver Wahrnehmung. Dieser Flatearther hat die Fähigkeit verloren, kritisch zu denken.
 
