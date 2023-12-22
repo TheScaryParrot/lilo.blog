@@ -3,7 +3,7 @@ title = "Das Dilemma der Unwissenheit - Wie Kritisches Denken zwischen Wahr und 
 date = "2023-12-17"
 draft = false
 pinned = false
-tags = ["KritischesDenken"]
+tags = ["KritischesDenken", "Deutsch"]
 image = "true-or-false-questions.jpg"
 +++
 In unserem Alltag sind wir oftmals mit der Frage konfrontiert, welche Aussage wirklich der Wahrheit entspricht. Doch häufig ist es uns nicht möglich, die absolute Wahrheit zu finden. Dies führt zu einem alltäglichen Dilemma der Ungewissheit.
