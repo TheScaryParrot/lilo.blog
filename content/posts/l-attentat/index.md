@@ -3,6 +3,7 @@ title = "L’Attentat"
 date = "2024-01-09"
 draft = false
 pinned = false
+image = "https://static.fnac-static.com/multimedia/Images/FR/NR/72/27/1c/1845106/1507-1/tsp20231025081435/L-attentat.jpg"
 +++
 ### L'auteur:
 
