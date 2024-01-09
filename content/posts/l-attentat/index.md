@@ -4,7 +4,7 @@ date = "2024-01-09"
 draft = false
 pinned = false
 +++
-### **L'auteur:**
+### L'auteur:
 
 **Yasmina Khadra – nom real : Mohammed Moulessehoul**
 
@@ -17,21 +17,15 @@ pinned = false
 
 Source : <https://fr.wikipedia.org/wiki/Yasmina_Khadra>
 
-
-
 ### Le résumé :
 
 Le livre s'agit d'une chirurgie qui s'habite à Tel Aviv, en israélise. Au début livre la femme du chirurgien Amin s'exploser dans un café. Après ça le chirurgien est très triste et il recherche pourquoi sa femme fait l'attentat. Il apprend beaucoup des choses qu'il ne veut pas apprendre et il devient dépressif. En cours de ce livre on apprend beaucoup du conflit de Israël et Palestine. On apprend pourquoi il' y a des personnes qui commets des attentats et on apprend pourquoi c’est difficile de résoudre ce conflit.
-
-
 
 ### Les thèmes de ce livre :
 
 Ce livre joue dans Israël. Israël a des problèmes avec terrorisme. Ce livre présenter ces problèmes des deux côtes ; Israël et Palestine. Les deux parties ont des problèmes avec violence et discrimination. Les deux côtes qui sont responsable pour les conflits en Israël, fait de violence contre les habitants innocent. L'Auteur veut faire attention de la violence entre les deux parties, qui tue des personnes innocente et la discrimination qui existe à cause de ce conflit. 
 
-
-
-### Petite Analyse : 
+### Petite Analyse :
 
 **Les thèmes du livre sont :**
 
@@ -41,8 +35,6 @@ Ce livre joue dans Israël. Israël a des problèmes avec terrorisme. Ce livre p
 
 Ce livre est écrit de la perspective d’Amine. Donc on a une vue subjective et on ne sait pas, si les choses qui ont passé sont vrai. Additionnel, le livre nous monte jusque le côté de la personne Palestine. 
 Jugement global et recommandation du groupe :
-
-
 
 ### Notre opinion :
 
