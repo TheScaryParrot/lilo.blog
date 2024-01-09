@@ -1,5 +1,5 @@
 +++
-title = "L’Attentat"
+title = "Lecture française - L’Attentat"
 date = "2024-01-09"
 draft = false
 pinned = false
