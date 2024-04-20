@@ -4,6 +4,7 @@ date = "2024-04-20"
 draft = false
 pinned = false
 tags = ["KritischensDenke", "Blog"]
+footnotes = "https://de.wikipedia.org/wiki/Liste_kognitiver_Verzerrungen\nhttps://de.wikipedia.org/wiki/Best%C3%A4tigungsfehler"
 +++
 Externe Quellen von Wissen sind heutzutage ein wesentlicher Bestandteil fast jeder wissenschaftlichen Arbeit. In Anbetracht der für mich immer näher rückenden Maturaarbeit, werde ich im folgenden Text Schwierigkeiten bei der Suche von glaubenswürdigen Quellen für die Maturaarbeit aufzeigen. Grundlagen dazu sind der Deutschunterricht zum kritischen Denken sowie Erfahrungen meinerseits.
 
