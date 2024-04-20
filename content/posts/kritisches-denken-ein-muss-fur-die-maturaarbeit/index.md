@@ -3,6 +3,7 @@ title = "Kritisches Denken - Ein Muss für die Maturaarbeit"
 date = "2024-04-20"
 draft = false
 pinned = false
+tags = ["KritischensDenke", "Blog"]
 +++
 Externe Quellen von Wissen sind heutzutage ein wesentlicher Bestandteil fast jeder wissenschaftlichen Arbeit. In Anbetracht der für mich immer näher rückenden Maturaarbeit, werde ich im folgenden Text Schwierigkeiten bei der Suche von glaubenswürdigen Quellen für die Maturaarbeit aufzeigen. Grundlagen dazu sind der Deutschunterricht zum kritischen Denken sowie Erfahrungen meinerseits.
 
