@@ -1,5 +1,5 @@
 +++
-title = "Kritisches Denken - Ein Muss für die Maturaarbeit"
+title = "Quellensuche für die Maturaarbeit - Wie Kritisches Denken dabei hilft"
 date = "2024-04-20"
 draft = false
 pinned = false
