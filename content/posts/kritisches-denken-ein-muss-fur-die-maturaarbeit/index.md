@@ -4,7 +4,8 @@ date = "2024-04-20"
 draft = false
 pinned = false
 tags = ["KritischesDenken", "Blog", "Deutsch"]
-footnotes = "https://de.wikipedia.org/wiki/Liste_kognitiver_Verzerrungen\n\nhttps://de.wikipedia.org/wiki/Best%C3%A4tigungsfehler"
+image = "360_f_89993553_kwr4oltxyqa4efzvcuy9jdewti7ktxwu.jpg"
+footnotes = "https://de.wikipedia.org/wiki/Liste_kognitiver_Verzerrungen\n\nhttps://de.wikipedia.org/wiki/Best%C3%A4tigungsfehler\n\nBild: https://stock.adobe.com/fr/search?k=quellensuche"
 +++
 Externe Quellen von Wissen sind heutzutage ein wesentlicher Bestandteil fast jeder wissenschaftlichen Arbeit. In Anbetracht der für mich immer näher rückenden Maturaarbeit, werde ich im folgenden Text Schwierigkeiten bei der Suche von glaubenswürdigen Quellen für die Maturaarbeit aufzeigen. Grundlagen dazu sind der Deutschunterricht zum kritischen Denken sowie Erfahrungen meinerseits.
 
