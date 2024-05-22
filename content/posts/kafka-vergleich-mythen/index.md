@@ -1,7 +1,7 @@
 +++
 title = "Kafka Vergleich Mythen"
 date = "2024-05-22"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Kafka", "DieVerwandlung", "Literatur"]
 +++
