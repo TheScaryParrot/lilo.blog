@@ -3,7 +3,7 @@ title = "Kafka Vergleich Mythen"
 date = "2024-05-22"
 draft = false
 pinned = false
-tags = ["Deutsch", "Kafka", "DieVerwandlung", "Literatur"]
+tags = ["Deutsch", "Kafka", "Literatur", "Blog"]
 +++
 Im Jahr 1915 veröffentlicht Franz Kafka den Text «Die Verwandlung». Damals wurde dieser Text als völlig neu angesehen und verschaffte Kafka hohes Ansehen in der Literaturszene. Auch heute gilt «Die Verwandlung» noch als einzigartiges Werk und ist einer der meistzitierten Deutschen Texten weltweit. Doch worin genau liegt der Unterschied zu früheren Metamorphose Geschichten? Als Grundlage für diesen Blogeintrag dient der Deutschunterricht am Gymnasium sowie eine Vorlesung zum Thema Kafkas Begabungen von Prof. Reiner Stach.
 
