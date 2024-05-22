@@ -1,5 +1,5 @@
 +++
-title = "Wieso genau Kafka? – Ein Vergleich von «Die Verwandlung» mit Metamorphose Mythen"
+title = "Verwandlung als Schicksal – Ein Vergleich zwischen Kafka und antiker Mythen"
 date = "2024-05-22"
 draft = false
 pinned = false
