@@ -4,8 +4,8 @@ date = "2024-04-20"
 draft = false
 pinned = false
 tags = ["Woyzeck", "Blog", "Deutsch", "Literatur"]
-image = "woyzeck-taschenbuch-georg-buechner.webp"
-footnotes = "https://www.bfs.admin.ch/bfs/de/home/statistiken/wirtschaftliche-soziale-situation-bevoelkerung/soziale-situation-wohlbefinden-und-armut/soziale-mobilitaet.html\n\nhttps://de.wikipedia.org/wiki/Woyzeck\n\nhttps://de.wikipedia.org/wiki/Georg_B%C3%BCchner\n\nhttps://chat.openai.com/\n"
+image = "woyzeck-2_foto-dheise.jpg"
+footnotes = "https://www.bfs.admin.ch/bfs/de/home/statistiken/wirtschaftliche-soziale-situation-bevoelkerung/soziale-situation-wohlbefinden-und-armut/soziale-mobilitaet.html\n\nhttps://de.wikipedia.org/wiki/Woyzeck\n\nhttps://de.wikipedia.org/wiki/Georg_B%C3%BCchner\n\nhttps://chat.openai.com/\n\nBild: https://www.junges-theater.de/stueck/woyzeck/"
 +++
 1824 wird Johann Woyzeck in Leipzig hingerichtet. Vorgeworfen wurde Ihm drei Jahre zuvor der Eifersuchtsmord an Johanna Woost. Zwölf Jahre später im Sommer 1836 beginnt der Dramatiker Georg Büchner mit der Niederschrift des Dramas Woyzeck. Der Text handelt von Friedrich Woyzeck. Wie seine gleichnamige Inspiration ersticht dieser seine Geliebte. Büchner scheint jedoch ein anderes Licht auf die Geschichte von Woyzeck und wirft die Frage der Zurechnungsfähigkeit in den Raum. Woyzeck ist hierbei von verschiedenen gesellschaftlichen Problemen und Ungleichheiten betroffen, was schlussendlich zu Maries Tod führt. Im Anbetracht des Alters des Dramas lässt sich die Frage formulieren, ob sich Woyzecks Probleme immer noch in der heutigen Gesellschaft wiederfinden. Als Grundlage für diesen Text dient der Deutschunterricht am Gymnasium.
 
