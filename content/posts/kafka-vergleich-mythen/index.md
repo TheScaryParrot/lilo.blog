@@ -1,5 +1,5 @@
 +++
-title = "Kafka Vergleich Mythen"
+title = "Wieso genau Kafka? – Ein Vergleich von «Die Verwandlung» mit Metamorphose Mythen"
 date = "2024-05-22"
 draft = false
 pinned = false
