@@ -1,5 +1,5 @@
 +++
-title = "Verwandlung als Schicksal – Ein Vergleich zwischen Kafka und antiker Mythen"
+title = "Verwandlung als Schicksal – Ein Vergleich zwischen \"Die Verwandlung\" und antiken Mythen"
 date = "2024-05-22"
 draft = false
 pinned = false
