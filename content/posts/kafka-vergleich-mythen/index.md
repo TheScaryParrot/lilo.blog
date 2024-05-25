@@ -1,6 +1,6 @@
 +++
 title = "Verwandlung als Schicksal – Ein Vergleich zwischen «Die Verwandlung» und antiken Mythen"
-date = "2024-05-22"
+date = "2024-05-25"
 draft = false
 pinned = false
 tags = ["Deutsch", "Kafka", "Literatur", "Blog"]
